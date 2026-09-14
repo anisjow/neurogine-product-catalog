@@ -34,3 +34,8 @@ The project uses a simple two-layer structure:
 
 - Add more unit tests for API service and UI interactions.
 - Further improve the UI and user experience.
+
+## AI Assistance
+
+AI was used for guidance, explanations, and troubleshooting during development.
+The implementation was reviewed and understood before being used.
